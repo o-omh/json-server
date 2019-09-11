@@ -1,7 +1,7 @@
 {
 	"users": [
 		{"id": 0, "firstName": "", "lastName": "", "email": "", "password": ""},
-		{"id": 1, "firstName": "Henrike", "lastName": "WARNER", "password": "12345678"
+		{"id": 1, "firstName": "Henrike", "lastName": "WARNER", "password": "12345678"}
 	],
 	"shops": [
 		{"id": 0, "shopName": "", "userId": 0},
